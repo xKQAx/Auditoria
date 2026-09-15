@@ -282,7 +282,6 @@ else:
         print("Media:", medias)
         print("Baja:", bajas)
         print("___________________________________________________________")
-        print("Nota: esta herramienta apoya el analisis, no reemplaza el criterio del auditor.")
 
     else:
         print("No se encontraron posibles hallazgos automaticos en el codigo")
